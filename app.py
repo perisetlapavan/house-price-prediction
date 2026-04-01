@@ -16,7 +16,7 @@ matplotlib.use('Agg')
 
 # ── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="🏠 House Price Predictor",
+    page_title=" House Price Predictor",
     page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded",
